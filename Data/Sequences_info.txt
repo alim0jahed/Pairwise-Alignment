@@ -1,0 +1,13 @@
+This directory contains two DNA sequences in FASTA format:
+
+1) Human_beta_globin:
+   - The beta-globin gene from Homo sapiens (human).
+   - Encodes part of the beta chain of hemoglobin, which carries oxygen in red blood cells.
+   - Sequence length: 90 nucleotides.
+
+2) Chimp_beta_globin:
+   - The beta-globin gene from Pan troglodytes (chimpanzee).
+   - Very similar to the human beta-globin gene, reflecting close evolutionary relationship.
+   - Sequence length: 90 nucleotides.
+
+These sequences can be used for pairwise alignment and similarity comparison.
