@@ -21,7 +21,7 @@ Compare the beta-globin gene from human and chimpanzee to identify mutations or 
 ---
 
 ## Project Structure
-
+```plaintext
 pairwise_alignment_project/
 ├── Data/
 │   ├── sequences.fasta             # Input sequences in FASTA format (test case)
